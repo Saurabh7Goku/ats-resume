@@ -1,6 +1,6 @@
 Absolutely! Here's your **entire README fully in Markdown format**, with **no separation between instructions and their formatting** — every single line, including steps, is properly Markdown-structured and continuous:
 
-````markdown
+````
 # ATS Resume Scanner
 
 A web application built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Firebase** to scan resumes against job descriptions using the **Gemini API**, providing detailed feedback to optimize resumes for Applicant Tracking Systems (ATS). Features include a user dashboard displaying recent job scans with scores, similar to **Jobscan** and **ResumeWorded**.
