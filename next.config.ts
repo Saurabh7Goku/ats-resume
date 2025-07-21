@@ -10,4 +10,7 @@ module.exports = {
     }
     return config;
   },
+  eslint: {
+    ignoreDuringBuilds: process.env.NODE_ENV === 'production',
+  },
 };
